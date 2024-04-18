@@ -1,0 +1,13 @@
+dataset:
+https://s3.eu-central-1.amazonaws.com/avg-kitti/data_road.zip
+Neural network:
+https://arxiv.org/abs/1505.04597
+
+
+My platform: kaggle
+CUDA Version: 12.2
+
+torch                                    2.1.2
+torchvision                              0.16.2
+numpy                                    1.26.4
+Pillow                                   9.5.0
